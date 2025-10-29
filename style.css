@@ -3,10 +3,10 @@ body {
 
 }
 #p1{
-    color: tomato;
+    color: rgb(136, 50, 35);
 }
 #p2{
-    color: rgb(red, green, blue);
+    color: rgb(rgb(182, 44, 44),rgb(84, 216, 84),rgb(42, 42, 179));
 }
 #p3{
     color: #59ff59;
